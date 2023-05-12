@@ -1,7 +1,7 @@
 # Hey Everyone! I'm [Ishan Verma!](https://github.com/Ishan-creed) <img src="https://github.com/devptyagi/devptyagi/blob/main/assets/Hi.gif" height="25px">
 
 
-<div align="center">
+<div >
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
@@ -34,9 +34,9 @@
 
 
 ### Github Stats
-  <div align = "center>
+ 
 [![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishan-creed&theme=tokyonight)](https://github.com/Ishan-creed/github-readme-stats)
-</div>
+
 
 ##
 
