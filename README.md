@@ -5,7 +5,7 @@
 - 👨🏻‍🎓 2nd Year B.Tech Student.
 - 💻 Information Technology Major.
 - 📱 Android Developer (Intermediate).
-- 🖥 Backend Developer.
+- 🖥 Full Stack Developer.
 
 
 
@@ -24,6 +24,14 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+
+### Github Stats
+  
+[![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishan-creed)](https://github.com/Ishan-creed/github-readme-stats)
+
+
+##
 
 
 ##
