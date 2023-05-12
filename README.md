@@ -44,8 +44,8 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-E3445E?style=flat-square&logo=intellijidea&logoColor=white)
 
 
-
+<p align = "center">
 ![Visitor Count](https://profile-counter.glitch.me/{Ishan-creed}/count.svg)
-
+</p>
   
 ![](https://github.com/devptyagi/devptyagi/blob/main/assets/bottom_header.svg)
