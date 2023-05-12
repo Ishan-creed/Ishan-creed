@@ -34,9 +34,9 @@
 
 
 ### Github Stats
-  
+  <div align = "center>
 [![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishan-creed&theme=tokyonight)](https://github.com/Ishan-creed/github-readme-stats)
-
+</div>
 
 ##
 
