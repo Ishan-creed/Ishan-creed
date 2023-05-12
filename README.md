@@ -35,20 +35,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-E3445E?style=flat-square&logo=intellijidea&logoColor=white)
 
-### Github Stats
-  
-<p align="center">
-  <a href="https://github.com/Ishan-creed"><span>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=Ishan-creed&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ishan-creed&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=tokyonight"/>
-    </span></a>
-</p>
 
 
-##
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/devptyagi/count.svg" />
-</p>
+
+
   
 ![](https://github.com/devptyagi/devptyagi/blob/main/assets/bottom_header.svg)
