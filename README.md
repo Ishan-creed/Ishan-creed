@@ -46,7 +46,7 @@
 
 ### Total Visitors
 
-[Visitor Count](https://profile-counter.glitch.me/{Ishan-creed}/count.svg)
+![](https://komarev.com/ghpvc/?Ishan-creed=your-github-Ishan-creed&label=PROFILE+VIEWS)
 
   
 ![](https://github.com/devptyagi/devptyagi/blob/main/assets/bottom_header.svg)
