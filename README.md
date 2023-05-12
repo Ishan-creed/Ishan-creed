@@ -44,8 +44,8 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-E3445E?style=flat-square&logo=intellijidea&logoColor=white)
 
 
+###Total Visitors
 
-<p>Total Visitors: </p>!
 [Visitor Count](https://profile-counter.glitch.me/{Ishan-creed}/count.svg)
 
   
