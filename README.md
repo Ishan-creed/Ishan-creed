@@ -45,7 +45,7 @@
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/{Ishan-creed}/count.svg)
+<p>Total Visitors: </p>![Visitor Count](https://profile-counter.glitch.me/{Ishan-creed}/count.svg)
 
   
 ![](https://github.com/devptyagi/devptyagi/blob/main/assets/bottom_header.svg)
