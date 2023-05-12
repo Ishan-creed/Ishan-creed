@@ -1,5 +1,12 @@
 # Hey Everyone! I'm [Ishan Verma!](https://github.com/Ishan-creed) <img src="https://github.com/devptyagi/devptyagi/blob/main/assets/Hi.gif" height="25px">
 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+
+
 <h3><b><samp>About Me</samp></b></h3>
 
 - 👨🏻‍🎓 2nd Year B.Tech Student.
