@@ -9,7 +9,7 @@
 
 <h3><b><samp>About Me</samp></b></h3>
 
-- 👨🏻‍🎓 2nd Year B.Tech Student.
+- 👨🏻‍🎓 3rd Year B.Tech Student.
 - 💻 Information Technology Major.
 - 📱 Android Developer (Intermediate).
 - 🖥 Full Stack Developer.
