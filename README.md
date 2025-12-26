@@ -9,11 +9,9 @@
 
 <h3><b><samp>About Me</samp></b></h3>
 
-- 👨🏻‍🎓 SDE Intern @Cyberforge
-- 👨🏻‍🎓 4th Year B.Tech Student.
-- 💻 Information Technology Major.
-- 📱 Android Developer (Intermediate).
-- 🖥 Full Stack Developer.
+- MS Student National College Of Ireland
+- 👨🏻‍🎓 Ex-Engineering @SquareX
+
 
 
 
